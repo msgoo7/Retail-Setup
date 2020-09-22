@@ -1,0 +1,5 @@
+postgresql11-libs-11.6-2PGDG.rhel7.x86_64.rpm
+postgresql11-11.6-2PGDG.rhel7.x86_64.rpm
+postgresql11-devel-11.6-2PGDG.rhel7.x86_64.rpm
+postgresql11-server-11.6-2PGDG.rhel7.x86_64.rpm
+mutraderetail-libs-1.0-1.el6.x86_64.rpm
