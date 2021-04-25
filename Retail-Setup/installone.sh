@@ -81,6 +81,7 @@ local   all             all                                     md5\
 ' /var/lib/pgsql/11/data/pg_hba.conf
 
 sleep 2
+sleep 2
 
 sed -i 's/local   all             all                                     peer/local   all             all                                     md5/' /var/lib/pgsql/11/data/pg_hba.conf
 
